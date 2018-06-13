@@ -11,4 +11,4 @@ Simple text-based RPG with C++
 
 * Zones, diferents zones means diferents monsters.
 
-* Dificulty, as the Player is advancing through zones he will face harder and harders monsters.
+* Dificulty, as the Player is advancing through zones he will face harder and harder monsters.
