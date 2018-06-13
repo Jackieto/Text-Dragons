@@ -1,5 +1,5 @@
-#ifndef JUGADOR_H
-#define JUGADOR_H
+#ifndef PLAYER_H
+#define PLAYER_H
 #include <string>
 class Player{
     public:
