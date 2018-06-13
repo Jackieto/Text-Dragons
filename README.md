@@ -1,4 +1,4 @@
-# Text-Dragons
+# Text&Dragons
 Simple text-based RPG with C++
 
 <h1> Features planned for the first version </h1>
