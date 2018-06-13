@@ -7,7 +7,7 @@ Simple text-based RPG with C++
 
 <h1> Features planned for the future </h1>
 
-* Player and monster levels, this meaans making a XP system.
+* Player and monster levels, this means making a XP system.
 
 * Zones, diferents zones means diferents monsters.
 
